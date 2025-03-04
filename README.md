@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmed-magdy-gad-13a2942bb" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-magdy-gad-13a2942bb" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/MozoGad/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 <a href="https://ahmedmagdygad.github.io/Coffee-shop-Landing-Page/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
