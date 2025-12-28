@@ -66,6 +66,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
+  </tr>
+ <tr>
    <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
   <br>MongoDB
@@ -85,8 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
   <br>Node.js
 </td>
-
-  </tr>
+ </tr>
 </table>
 
 
